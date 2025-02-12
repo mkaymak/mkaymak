@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mkaymak
-- 👀 I’m interested in Java Web Technologies
+- 👋 Hi, I’m Merve Namiduru
+- 👀 I’m interested in Backend Web Technologies
 - 📫 How to reach out to me 
   - https://www.linkedin.com/in/merve-nam%C4%B1duru-979997123/
   - https://www.hackerrank.com/mervekaymak1993
